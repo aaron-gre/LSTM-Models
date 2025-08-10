@@ -1,3 +1,3 @@
 # LSTM-Models
 
-Der Programmiercode ist noch im Progress der Aufarbeitung hinsichtlich der Übersichtlichkeit
+The code is currently being refined to improve clarity and readability.
