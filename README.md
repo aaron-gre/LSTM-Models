@@ -1,12 +1,10 @@
 # LSTM Models
 
-Notebooks for training and evaluating LSTM models on German energy-production data. 
+This Project examined whether advanced recurrent neural architectures can deliver **accurate short-term forecasts of German electricity generation**. Using 5 years of hourly production data from the Bundesnetzagentur (Germany’s Federal Network Agency), the workflow cleans the raw Excel files, engineers lagged features, and trains eight Keras models that differ in  
 
-This Project examined whether advanced recurrent neural architectures can deliver **accurate short-term forecasts of German electricity generation**. Using 5 years of hourly production data from the Bundesnetzagentur (German Electricity Agency), the workflow cleans the raw Excel files, engineers lagged features, and trains eight Keras models that differ in  
-
-• architecture (LSTM vs GRU),  
-• network depth (1-layer x 64Neurons vs 2-layer x 32 Neurons), and  
-• forecasting strategy (24-hour direct output vs 1-hour iterative rollout).
+• Architecture (LSTM vs GRU),  
+• Network Depth (1-layer x 64neurons vs 2-layer x 32 neurons), and  
+• Forecasting Strategy (24-hour direct output vs 1-hour iterative rollout).
 
 Model performance is benchmarked with **mean absolute error (MAE)** on a held-out validation set. The notebooks cover data ingestion, exploratory visualization, training, learning-curve tracking, and prediction plotting, providing a fully reproducible pipeline. The results highlight both the potential of deeper GRU/LSTM networks and the trade-offs between direct and iterative forecasting strategies when applied to real-world energy time-series data.
 
@@ -18,7 +16,7 @@ Model performance is benchmarked with **mean absolute error (MAE)** on a held-ou
 - Python 3.8 or higher
 - Required packages:
         `pandas`, `numpy`, `matplotlib`, `tensorflow`, `IPython`
-- (Optional) Kaggle account for running Kaggle notebooks and using uploaded datasets
+- (Optional) Kaggle Account for running Kaggle notebooks and using uploaded datasets
 
 
 
