@@ -2,7 +2,13 @@
 
 Notebooks for training and evaluating LSTM models on German energy-production data. 
 
+This Project examined whether advanced recurrent neural architectures can deliver **accurate short-term forecasts of German electricity generation**. Using 5 years of hourly production data from the Bundesnetzagentur (German Electricity Agency), the workflow cleans the raw Excel files, engineers lagged features, and trains eight Keras models that differ in  
 
+• architecture (LSTM vs GRU),  
+• network depth (1-layer x 64Neurons vs 2-layer x 32 Neurons), and  
+• forecasting strategy (24-hour direct output vs 1-hour iterative rollout).
+
+Model performance is benchmarked with **mean absolute error (MAE)** on a held-out validation set. The notebooks cover data ingestion, exploratory visualization, training, learning-curve tracking, and prediction plotting, providing a fully reproducible pipeline. The results highlight both the potential of deeper GRU/LSTM networks and the trade-offs between direct and iterative forecasting strategies when applied to real-world energy time-series data.
 
 
 
