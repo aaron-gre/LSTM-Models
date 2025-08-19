@@ -67,6 +67,7 @@ Notebooks for training and evaluating LSTM models on German energy-production da
 - Or just click the link and it's preloaded: [Training History Notebook](https://www.kaggle.com/code/aarongresser/04-training-history)  
 - Run the notebook to visualize learning curves
 
+<img width="4770" height="3607" alt="model_comparison" src="https://github.com/user-attachments/assets/a541e16c-9b57-4544-81b8-3ec2098202e3" />
 
 ---
 
