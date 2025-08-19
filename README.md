@@ -71,7 +71,7 @@ Model performance is benchmarked with **mean absolute error (MAE)** on a held-ou
 - Or just click the link and it's preloaded: [Training History Notebook](https://www.kaggle.com/code/aarongresser/04-training-history)  
 - Run the notebook to visualize learning curves
 
-<img width="4770" height="3607" alt="model_comparison" src="https://github.com/user-attachments/assets/a541e16c-9b57-4544-81b8-3ec2098202e3" />
+<img width="2800" height="2117" alt="model_comparison" src="https://github.com/user-attachments/assets/a541e16c-9b57-4544-81b8-3ec2098202e3" />
 
 ---
 
@@ -83,7 +83,7 @@ Model performance is benchmarked with **mean absolute error (MAE)** on a held-ou
 - Run the notebook to compare forecasts with actual values
 
 
-<img width="5976" height="2370" alt="LSTM32x2_vs_GRU32x2_comparison_plot" src="https://github.com/user-attachments/assets/32e382e6-1da0-4985-b07d-e6d2efbafa0d" />
+<img width="2800" height="1110" alt="LSTM32x2_vs_GRU32x2_comparison_plot" src="https://github.com/user-attachments/assets/32e382e6-1da0-4985-b07d-e6d2efbafa0d" />
 
 
 
