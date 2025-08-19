@@ -89,4 +89,5 @@ Model performance is benchmarked with **mean absolute error (MAE)** on a held-ou
 
 ## Author
 Aaron Gresser 
+
 The German Paper to this code can be found [here](LSTM_Seminararbeit.pdf)
