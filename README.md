@@ -33,13 +33,14 @@ The code is currently being refined to improve clarity and readability.
 
 ---
 
-
 ## Step 3.1: Dataset Visualisation
 
 - Load `03_1_Dataset Visualization.ipynb` into Kaggle    
  - Integrate the dataset: [Energy Production](https://www.kaggle.com/datasets/aarongresser/energy-production)  
  - Or just click the link and it's preloaded: [Dataset Visualization Notebook](https://www.kaggle.com/code/aarongresser/03-1-dataset-visualization)
  - Complete run
+
+---
 
 # Model Training
 
@@ -50,7 +51,26 @@ The code is currently being refined to improve clarity and readability.
 - Or just click the link and it's preloaded: [Model Training Notebook](https://www.kaggle.com/code/aarongresser/03-model-training)  
 - Complete run
 
+---
 
+# Model Evaluation
+
+### Step 4: Visualization of the Training History
+
+- Load `04_Training History.ipynb` into Kaggle  
+- Integrate the dataset: [LSTM-Models](https://kaggle.com/datasets/bedc5947a87cc623fd6c960b1f16022f56e630a752d581f2a46bd11d40c6ddf4)  
+- Or just click the link and it's preloaded: [Training History Notebook](https://www.kaggle.com/code/aarongresser/04-training-history)  
+- Complete run
+
+
+---
+
+### Step 5: Visualization of the Model Predictions
+
+- Load `05_Model Predictions.ipynb` into Kaggle  
+- Integrate the dataset: [Energy Production](https://www.kaggle.com/datasets/aarongresser/energy-production)
+- Or just click the link and it's preloaded: [05_Model Predictions](https://www.kaggle.com/code/aarongresser/05-model-predictions)  
+- Complete run
 
 
 
