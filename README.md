@@ -79,6 +79,7 @@ Notebooks for training and evaluating LSTM models on German energy-production da
 - Run the notebook to compare forecasts with actual values
 
 
+<img width="5976" height="2370" alt="LSTM32x2_vs_GRU32x2_comparison_plot" src="https://github.com/user-attachments/assets/32e382e6-1da0-4985-b07d-e6d2efbafa0d" />
 
 
 
