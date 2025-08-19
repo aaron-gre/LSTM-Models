@@ -1,7 +1,7 @@
 # LSTM Models
 
 Notebooks for training and evaluating LSTM models on German energy-production data. 
-The code is currently being refined to improve clarity and readability.
+
 
 
 
